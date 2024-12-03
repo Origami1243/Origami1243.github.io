@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: white;
   text-align: center;
   background-color: black;
   border: inset 15px green;
@@ -7,7 +7,7 @@ h1 {
   width: 200px;
 }
 p {
-  color: darkred;
+  color: white;
   text-align: center;
 }
 
@@ -47,7 +47,7 @@ header {
 a:hover {
   background-color: black;
   color: white;
-  border: outset 7px darkgray;
+  border: outset 7px red;
 }
 
 a {
@@ -56,7 +56,7 @@ a {
   padding-left: 20px;
   background-color: black;
   border: outset 3px green;
-  color: red;
+  color: white;
 }
  li {
    color: white;
