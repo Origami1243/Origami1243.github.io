@@ -1,8 +1,8 @@
 h1 {
-  color: #9b870c;
+  color: red;
   text-align: center;
-  background-color: yellow;
-  border: inset 15px red;
+  background-color: darkgray;
+  border: inset 15px green;
   margin: auto;
   width: 200px;
 }
@@ -16,11 +16,11 @@ h2 {
 }
 
 body {
-  background-color: green;
+  background-color: black;
 }
 
 nav {
-  background-color: red;
+  background-color: green;
   text-align: left;
   padding: 3px;
 }
@@ -54,9 +54,9 @@ a {
   text-decoration: none;
   padding-right: 20px;
   padding-left: 20px;
-  background-color: #9b870c;
-  border: outset 3px red;
-  color: black;
+  background-color: darkgray;
+  border: outset 3px green;
+  color: red;
 }
  li {
    color: white;
