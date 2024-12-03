@@ -1,13 +1,13 @@
 h1 {
-  color: white;
+  color: darkyellow;
   text-align: center;
-  background-color: darkgray;
-  border: inset 15px gray;
+  background-color: yellow;
+  border: inset 15px red;
   margin: auto;
   width: 200px;
 }
 p {
-  color: lightgray;
+  color: darkred;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 nav {
-  background-color: darkgray;
+  background-color: red;
   text-align: left;
   padding: 3px;
 }
