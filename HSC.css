@@ -1,5 +1,5 @@
 h1 {
-  color: darkyellow;
+  color: #9b870c;
   text-align: center;
   background-color: yellow;
   border: inset 15px red;
@@ -16,7 +16,7 @@ h2 {
 }
 
 body {
-  background-color: #141414;
+  background-color: green;
 }
 
 nav {
@@ -54,8 +54,8 @@ a {
   text-decoration: none;
   padding-right: 20px;
   padding-left: 20px;
-  background-color: darkgray;
-  border: outset 3px gray;
+  background-color: #9b870c;
+  border: outset 3px red;
   color: black;
 }
  li {
