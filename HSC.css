@@ -34,6 +34,7 @@ ul {
 
 li {
   display: inline-block;
+  color: white;
 }
 
 header {
@@ -58,9 +59,3 @@ a {
   border: outset 3px green;
   color: white;
 }
- li {
-   color: white;
- }
-h4 {
-   color: black;
- }
